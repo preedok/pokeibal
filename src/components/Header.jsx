@@ -21,7 +21,7 @@ const Header = () => {
                             data-aos-duration="1000" className={`ms-2 mt-2 fw-bold`} style={{ fontSize: '16px', color: '#496989' }}>Embark on a journey to catch, train, and battle Pokémon in different regions.</p>
                     </div>
                 </div>
-                <div className="flex flex-grow justify-center">
+                <div className="justify-center md:bg-none md:block hidden">
                     <div className="text-right mt-[10px]">
                         <img
                             style={{
